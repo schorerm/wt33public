@@ -1,0 +1,8 @@
+name: we33-environment
+channels:
+  - conda-forge
+dependencies:
+  - requests
+  - numpy
+  - matplotlib
+  - pandas
